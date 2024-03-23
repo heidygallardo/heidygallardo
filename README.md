@@ -3,7 +3,8 @@
 
 ### A little bit about me: 
 - I graduated with my B.S. in Computer Science from UTRGV in December 2023. 
-- I designed and developed websites for the C-STEM Department and faculty at UTRGV.  
+- I designed and developed websites for the C-STEM Department and faculty at UTRGV.
+- I currently design and develop websites for businesses in Texas. 
 
 ### Meet Rex my [#30NitesOfCode](https://www.codedex.io/@heidyexe/30-nites-of-code) pet 
 
