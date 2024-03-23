@@ -2,7 +2,8 @@
 ### My name is Heidy, and I enjoy building user-friendly, impactful websites! 🪄 
 
 ### A little bit about me: 
-I recently graduated with my Bachelor's of Science in Computer Science 📚
+- I graduated with my B.S. in Computer Science from UTRGV in December 2023. 
+- I designed and developed websites for the C-STEM Department and faculty at UTRGV.  
 
 ### Meet Rex my [#30NitesOfCode](https://www.codedex.io/@heidyexe/30-nites-of-code) pet 
 
