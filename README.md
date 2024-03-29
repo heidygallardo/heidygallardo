@@ -9,7 +9,7 @@
 ### While I am not coding I am: 
 - A volunteer at my church.
 - Playing sports with friends and family (my favorite is soccer! ⚽) 
-- Painting 🎨 checkout my most recent works: 
+- Painting memes or flowers 🎨 checkout my most recent: Spongebob meme, Tulips
 
 ### Meet Rex my [#30NitesOfCode](https://www.codedex.io/@heidyexe/30-nites-of-code) pet 
 
