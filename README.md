@@ -6,6 +6,11 @@
 - I designed and developed websites for the C-STEM Department and faculty at UTRGV.
 - I currently design and develop websites for businesses in Texas. 
 
+### While I am not coding I am: 
+- A volunteer at my church.
+- Playing sports with friendy and family (my favorite is soccer! ⚽) 
+- Painting 🎨
+
 ### Meet Rex my [#30NitesOfCode](https://www.codedex.io/@heidyexe/30-nites-of-code) pet 
 
 ![@heidyexe #30NitesOfCode](https://codedex.io/api/petStatus?user=heidyexe)
