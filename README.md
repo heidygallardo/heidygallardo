@@ -7,6 +7,6 @@
 
 ### While I am not coding I am: 
 - A volunteer at my church.
-- Playing sports with friends and family (my favorite is soccer! ⚽) 
+- Playing sports with friends and family (my favorite are soccer and volleyball!) 
 - Painting 🎨 
 
